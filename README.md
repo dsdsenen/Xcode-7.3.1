@@ -1,6 +1,6 @@
 # Xcode-7.3.1
 
-MacOSX10.11.sdk.tar.gz for gitian buil
+MacOSX10.11.sdk.tar.gz for gitian build
 
 ## How to use
     git clone https://github.com/didys/Xcode-7.3.1
